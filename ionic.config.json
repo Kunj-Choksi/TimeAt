@@ -1,0 +1,7 @@
+{
+  "name": "TimeAt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
